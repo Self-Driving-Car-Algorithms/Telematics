@@ -10,7 +10,7 @@ use Symfony\Component\Dotenv\Dotenv;
 use Symfony\Component\HttpFoundation\Session\Session;
 use Symfony\Component\HttpFoundation\RedirectResponse;
 
-class GeolocationController extends AbstractController {
+class RouteController extends AbstractController {
 
     private $dbconn;
 
