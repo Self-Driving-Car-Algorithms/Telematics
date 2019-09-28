@@ -23,3 +23,7 @@ This is currently a singlehandedly developed solution, so I'd expect this to be 
 * Stress test under base [OASA](http://oasa.gr) conditions (~2-20 million requests per minute? [Citation needed])
 * Create a *basic* front-end to the application
 * Create a *basic* companion Android application as a demo
+
+## Notice:
+
+This project is in no way, shape, or form affiliated with OASA, or any of its subsidiaries, they're simply my motivation in order to create this.
